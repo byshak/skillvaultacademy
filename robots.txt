@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://flecto.shop/sitemap.xml

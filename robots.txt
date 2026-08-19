@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://flecto.shop/sitemap.xml
+Sitemap: https://byshak.github.io/skillvaultacademy/sitemap.xml
